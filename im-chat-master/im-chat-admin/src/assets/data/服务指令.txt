@@ -1,0 +1,9 @@
+zookeeper
+java -jar zookeeper-dev-ZooInspector.jar
+
+rbbitmq
+rabbitmqctl status //查看当前状态
+rabbitmq-plugins enable rabbitmq_management //开启Web插件
+rabbitmq-server start //启动服务
+rabbitmq-server stop //停止服务
+rabbitmq-server restart //重启服务

@@ -1,0 +1,17 @@
+com\lld\message\dao\ImMessageFileEntity.class
+com\lld\message\model\DoStoreGroupMessageDto.class
+com\lld\message\dao\ImMessageBodyEntity.class
+com\lld\message\dao\mapper\ImMessageHistoryMapper.class
+com\lld\message\MessageApplication.class
+com\lld\message\service\StoreMessageService.class
+com\lld\message\config\EasySqlInjector.class
+com\lld\message\dao\ImGroupMessageHistoryEntity.class
+com\lld\message\dao\ImMessageHistoryEntity.class
+com\lld\message\dao\mapper\ImMessageFileMapper.class
+com\lld\message\mq\StroeGroupMessageReceiver.class
+com\lld\message\config\BeanConfig.class
+com\lld\message\mq\StoreP2PMessageReceiver.class
+com\lld\message\model\DoStoreP2PMessageDto.class
+com\lld\message\dao\mapper\ImGroupMessageHistoryMapper.class
+com\lld\message\dao\mapper\ImMessageBodyMapper.class
+com\lld\message\mq\StoreGroupMessageReceiver.class

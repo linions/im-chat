@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="im-service" />
+      <module name="im-common" />
+      <module name="im" />
+      <module name="im-codec" />
+      <module name="im-system" />
+      <module name="im-message-store" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c3043e9-b99f-492b-a46c-9b570d277d20" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/../.vscode/limfxbasicinfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/chatLog/chatLog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/conversation/conversation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/friends/apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/friends/friend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/group/apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/group/group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/api/user/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/-4fc6f5ab8738a9d3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/-60cd90c2df9c67e1_mh1595343968767.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/1 诚信声明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/1024x768_206a5e049f958e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/1647931587614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/2 任务书.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/2058549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/Camera_XHS_16844005213777c209792-0f6e-3249-bb51-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/Camera_XHS_168440052587276810994-14a6-3dbe-a188-a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/Camera_XHS_16844005320431079deed-2df9-34bb-b285-d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/Camera_XHS_16844005381065930a81f-b5e4-302f-b172-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/Letter-U-PNG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/P2P下的语音聊天软件实现_许劲.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ图片20201125141144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ截图20230601222908.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ截图20230601222920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ截图20230601222928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ截图20230601222954.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/QQ截图20230601223016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/dict.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/dictData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/jiangxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/p2614967199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/shanxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/superAdmin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/æå­¦ç¥è¯åºç®¡çè½¯ä»¶çè®¾è®¡ä¸å®ç°_æå¥½_20192725_æ¯è®¾è®ºæ_ç¬¬1ç¨¿_20230531-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/双创.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/基于JAVA的仿QQ聊天系统的设计_李丹.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/基于JAVA的多平台聊天系统_郇战.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/基于Netty与Spring Boot的高性能即时聊天软件设计与实现_刘娟_20192727_毕设论文_第1稿_20230601.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/实验报告.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/截屏2023-06-02 23.46.04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/指导记录.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/文本-02-正文－gg.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/服务指令.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/查重报告.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/游客记忆视角的衡山风景名胜区景观情感评价及关注度研究_胡柔柔_20195589_毕设论文_第1稿_20230531.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/论文.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/data/重打.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/addfirend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/addgroup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/chat_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/excel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/exe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/friendfavor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/friendfavor_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/gaomu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/31354057291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/34257621804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/35601138959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/36646405609.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/38957285666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/39815123078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/42815352737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/46475413584.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/67932155254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/74327323446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/80329735772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/90708547175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/jiangxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/groupLogo/liuyang_hosptial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/group_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/hung.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/leimu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/loginout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/notice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/notify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/ppt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/sbpk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/talk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/txt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1065662536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1230442382.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1251399079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1424119978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1462745773.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1698069288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1829028390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1865126042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/1865797835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/313907394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/319285862.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/336508444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/501761120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/560844134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/564078510.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/568258664.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/718073266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/737889746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/752251730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/754979403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/798445072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/946939220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/userLogo/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/voice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/img/word.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/style/login/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/style/login/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/assets/vue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/auto-import.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/Friend/FriendRequest.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/Group/GroupRequest.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/Personal/friendCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/Personal/groupCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/Personal/personalCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatBackground.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatGroupList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatLeftNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatMiddleNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatSend.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/chatTopBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/notification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Chat/videoChat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Emjoi/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Emoji/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/ImagePreview/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/ImageUpload/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/ImageUpload/index2.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/ImageUpload/index3.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Login/loader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/Login/loginBackground.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/components/SvgIcon/svgicon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/codec/ByteBuffer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/common/Command.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/common/Fetch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/common/WebToolkit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/common/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/core/HttpApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/core/ImClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/log/Logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/model/ApiResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/model/RequestBase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/model/RequestParams.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/model/dto/MessageContent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/pack/GroupMessagePack.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/pack/LoginPack.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/pack/MessagePack.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/lim/uniapp/http/uni-fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/plugins/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/plugins/download.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/plugins/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/listenerMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/socketchat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/tagsView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/store/modules/viewInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/errorCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/jsencrypt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/ruoyi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/signalR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/utils/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/views/Card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/views/Loader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/src/views/chat/Chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/vite/plugins/auto-import.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/vite/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/chat-room-vue/vite/plugins/setup-extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/public/table.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/screenshots/wms1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/screenshots/wms3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/api/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/api/notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/api/params.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/api/role.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/css/color-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/css/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/-4fc6f5ab8738a9d3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/-60cd90c2df9c67e1_mh1595343968767.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/1 诚信声明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/1024x768_206a5e049f958e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/1647931587614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/2 任务书.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/2058549.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/Camera_XHS_16844005213777c209792-0f6e-3249-bb51-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/Camera_XHS_168440052587276810994-14a6-3dbe-a188-a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/Camera_XHS_16844005320431079deed-2df9-34bb-b285-d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/Camera_XHS_16844005381065930a81f-b5e4-302f-b172-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/Letter-U-PNG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/P2P下的语音聊天软件实现_许劲.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ图片20201125141144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ截图20230601222908.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ截图20230601222920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ截图20230601222928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ截图20230601222954.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/QQ截图20230601223016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/dict.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/dictData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/jiangxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/p2614967199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/shanxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/superAdmin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/æå­¦ç¥è¯åºç®¡çè½¯ä»¶çè®¾è®¡ä¸å®ç°_æå¥½_20192725_æ¯è®¾è®ºæ_ç¬¬1ç¨¿_20230531-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/双创.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/基于JAVA的仿QQ聊天系统的设计_李丹.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/基于JAVA的多平台聊天系统_郇战.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/基于Netty与Spring Boot的高性能即时聊天软件设计与实现_刘娟_20192727_毕设论文_第1稿_20230601.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/实验报告.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/截屏2023-06-02 23.46.04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/指导记录.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/文本-02-正文－gg.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/服务指令.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/查重报告.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/游客记忆视角的衡山风景名胜区景观情感评价及关注度研究_胡柔柔_20195589_毕设论文_第1稿_20230531.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/论文.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/data/重打.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/31354057291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/34257621804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/35601138959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/36646405609.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/38957285666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/39815123078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/42815352737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/46475413584.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/67932155254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/74327323446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/80329735772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/90708547175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/jiangxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/groupLogo/liuyang_hosptial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1065662536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1230442382.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1251399079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1424119978.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1462745773.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1698069288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1829028390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1865126042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/1865797835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/284914450694145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/313907394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/319285862.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/336508444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/501761120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/560844134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/564078510.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/568258664.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/718073266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/737889746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/752251730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/754979403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/798445072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/946939220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/hello2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/shanxi_hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/superAdmin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogo/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/assets/img/userLogohello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/components/Sidebar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/components/Tags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/Dashboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/account.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/file.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/log.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/notify.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/params.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/role.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/system.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/src/views/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../im-chat-master/im-chat-admin/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_access_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jeffreyning_mybatisplus_plus_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_core_8_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_feign_feign_jackson_8_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_35_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava3_rxjava_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_javax_mail_api_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_2_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_2_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_15_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/MessageDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/MessageEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/UploadFileDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/WebSocketMessageDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/WebSocketMessageEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/config/BootstrapConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/LoginPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/conversation/DeleteConversationPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/conversation/UpdateConversationPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/AddFriendBlackPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/AddFriendGroupMemberPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/AddFriendGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/AddFriendPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/ApproveFriendRequestPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/ApproverFriendRequestPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/DeleteAllFriendPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/DeleteBlackPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/DeleteFriendGroupMemberPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/DeleteFriendGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/DeleteFriendPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/ReadAllFriendRequestPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/friendship/UpdateFriendPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/AddGroupMemberPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/ApproveGroupRequestPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/CreateGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/DestroyGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/GroupMemberSpeakPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/GroupMessagePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/MuteGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/RemoveGroupMemberPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/TransferGroupPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/UpdateGroupInfoPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/group/UpdateGroupMemberPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/message/ChatMessageAck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/message/MediaChatAck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/message/MessageReadedPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/message/MessageReciveServerAckPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/message/RecallMessageNotifyPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/user/LoginAckPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/user/UserCustomStatusChangeNotifyPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/user/UserModifyPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/pack/user/UserStatusChangeNotifyPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/proto/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/proto/MessageHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/proto/MessagePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-codec/src/main/java/com/lld/im/codec/utils/ByteBufToMessageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/BaseErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/ClientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/ResponseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/config/GlobalHttpClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/constant/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/AllowFriendTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ApproverFriendRequestStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/CheckFriendShipTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ConversationErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ConversationTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/DelFlagEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/DeviceMultiLoginEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/FileTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/FriendShipErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/FriendShipStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GateWayErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupJoinTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupMemberRoleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupMuteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/GroupTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ImConnectStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ImUrlRouteWayEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/ImUserTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/MessageErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/MessageTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/RequestTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/RoleTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/RouteHashMethodEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/UserErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/UserForbiddenFlagEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/UserSilentFlagEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/CommandType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/ConversationEventCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/FriendshipEventCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/GroupEventCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/MediaEventCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/MessageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/SystemCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/enums/command/UserEventCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/exception/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/exception/ApplicationExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/ClientInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/RequestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/SyncReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/SyncResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/SysLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/UserClientDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/UserSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/CheckSendMessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/DoStoreGroupMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/DoStoreP2PMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/FileDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/GroupChatMessageContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/ImMessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/MediaContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/MessageContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/MessageReadContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/MessageReadedContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/MessageReciveAckContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/OfflineMessageContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/model/message/RecallMessageContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/RouteHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/RouteInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/algorithm/consistenthash/AbstractConsistentHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/algorithm/consistenthash/ConsistentHashHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/algorithm/consistenthash/TreeMapConsistentHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/algorithm/loop/LoopHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/route/algorithm/random/RandomHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/Base64URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/Base64Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/DoubleUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/HttpRequestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/LinearRegression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/RouteInfoParseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-common/src/main/java/com/lld/im/common/utils/SigAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/MessageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/config/EasySqlInjector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/ImGroupMessageHistoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/ImMessageBodyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/ImMessageFileEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/ImMessageHistoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/mapper/ImGroupMessageHistoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/mapper/ImMessageBodyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/mapper/ImMessageFileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/dao/mapper/ImMessageHistoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/model/DoStoreGroupMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/model/DoStoreP2PMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/mq/StoreGroupMessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/mq/StoreP2PMessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/java/com/lld/message/service/StoreMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/MessageApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/config/BeanConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/config/EasySqlInjector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/ImGroupMessageHistoryEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/ImMessageBodyEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/ImMessageFileEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/ImMessageHistoryEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/mapper/ImGroupMessageHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/mapper/ImMessageBodyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/mapper/ImMessageFileMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/dao/mapper/ImMessageHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/model/DoStoreGroupMessageDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/model/DoStoreP2PMessageDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/mq/StoreGroupMessageReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/mq/StoreP2PMessageReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/com/lld/message/service/StoreMessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/message-store-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-message-store/target/message-store-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/controller/CallbackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/ServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/config/EasySqlInjector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/controller/ConversationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/dao/ImConversationSetEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/dao/mapper/ImConversationSetMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/model/req/CreateConversationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/model/req/DeleteConversationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/model/req/GetConversationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/model/req/UpdateConversationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/model/resp/GetConversationResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/conversation/service/ConversationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/controller/ImFriendShipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/controller/ImFriendShipGroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/controller/ImFriendShipRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/ImFriendShipEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/ImFriendShipGroupEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/ImFriendShipGroupMemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/ImFriendShipRequestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/mapper/ImFriendShipGroupMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/mapper/ImFriendShipGroupMemberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/mapper/ImFriendShipMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/dao/mapper/ImFriendShipRequestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/callback/AddFriendAfterCallbackDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/callback/AddFriendBlackAfterCallbackDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/callback/DeleteFriendAfterCallbackDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/AddFriendReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/AddFriendShipBlackReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/AddFriendShipGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/AddFriendShipGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/ApproveFriendRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/ApproverFriendRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/CheckFriendShipReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/DeleteBlackReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/DeleteFriendReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/DeleteFriendShipGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/DeleteFriendShipGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/FriendDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/GetAllFriendShipReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/GetFriendShipRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/GetRelationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/ImporFriendShipReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/ImportFriendShipReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/ReadFriendShipRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/SearchFriendReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/req/UpdateFriendReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/resp/CheckFriendShipResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/resp/GetFriendRequestResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/resp/ImportFriendShipResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/model/resp/SearchFriendResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/ImFriendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/ImFriendShipGroupMemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/ImFriendShipGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/ImFriendShipRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/impl/ImFriendServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/impl/ImFriendShipGroupMemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/impl/ImFriendShipGroupServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/friendship/service/impl/ImFriendShipRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/controller/ImGroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/controller/ImGroupMemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/controller/ImGroupRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/ImGroupEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/ImGroupMemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/ImGroupMessageHistoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/ImGroupRequestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/mapper/ImGroupMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/mapper/ImGroupMemberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/mapper/ImGroupMessageHistoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/dao/mapper/ImGroupRequestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/callback/AddMemberAfterCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/callback/DestroyGroupCallbackDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/AddGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/AddGroupRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/ApproveGroupRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/CreateGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/DestroyGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/ExitGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GetGroupMessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GetGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GetGroupRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GetJoinedGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GetRoleInGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/GroupMemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/ImportGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/ImportGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/MuteGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/ReadGroupRequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/RemoveGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/SearchGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/SendGroupMessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/SpeaMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/SpeakMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/TransferGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/UpdateGroupMemberReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/req/UpdateGroupReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/AddMemberResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/GetGroupMessageResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/GetGroupResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/GetJoinedGroupResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/GetRoleInGroupResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/model/resp/SearchGroupResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/mq/GroupChatOperateReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/GroupMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/ImGroupMemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/ImGroupRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/ImGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/impl/ImGroupMemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/impl/ImGroupRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/group/service/impl/ImGroupServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/interceptor/GateWayInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/interceptor/IdentityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/interceptor/RequestHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/ImMessageBodyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/ImMessageFileEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/ImMessageHistoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/mapper/ImMessageBodyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/mapper/ImMessageFileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/dao/mapper/ImMessageHistoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/req/DownloadFileReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/req/GetMessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/req/MessageFileReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/req/MessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/req/SendMessageReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/resp/GetMessageResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/model/resp/SendMessageResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/mq/ChatOperateReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/mq/MediaChatReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/CheckSendMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/MediaChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/MessageStoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/MessageSyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/message/service/P2PMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/ImMenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/ImRoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/ImRoleMenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/mapper/ImMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/mapper/ImRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/dao/mapper/ImRoleMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/model/req/BindRoleReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/model/req/DeleteRoleReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/model/req/GetRoleReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/model/req/RoleReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/model/req/UpdateRoleReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/ImMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/ImRoleMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/ImRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/impl/ImMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/impl/ImRoleMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/role/service/impl/ImRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/seq/RedisSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/controller/SysNotificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/controller/SystemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/controller/SystemParamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/dao/ImSysNotificationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/dao/ImSysParamEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/dao/mapper/ImSystemNotificationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/dao/mapper/ImSystemParamMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/DestroyUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/GetNotificationReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/GetParamsReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/HandleNotifyReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/LogReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/ModifyParamsReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/ParamsReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/SendNotifyReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/SysDataReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/req/UpdateNotifyReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/model/resp/SysDataResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/service/ImSystemNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/service/ImSystemParamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/service/ImSystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/service/impl/ImSystemNotificationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/system/service/impl/ImSystemParamServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/controller/ImUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/controller/ImUserDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/dao/ImUserDataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/dao/mapper/ImUserDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/UserStatusChangeNotifyContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/AdminLoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/DeleteUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/DownLoadFileReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/FindPasswordReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/GetCertifyReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/GetCodeReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/GetUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/GetUserSequenceReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/ImportUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/LoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/LogoutReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/ModifyUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/PullFriendOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/PullUserOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/SetUserCustomerStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/SubscribeUserOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/req/UserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/FindPasswordResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/GetSingleUserInfoResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/GetUserInfoResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/ImportUserResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/LoginResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/UserOnlineStatusResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/UserResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/model/resp/UserTypeResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/mq/UserOnlineStatusReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/service/ImUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/service/ImUserStatusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/service/impl/ImUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/user/service/impl/ImUserStatusServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/CallbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/ConversationIdGenerate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/GroupMessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/MailUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/MessageKeyGenerate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/ShareThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/UserSessionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/WriteUserSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/java/com/lld/im/service/utils/ZKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-service/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/ImTcpApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/feign/FeignMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/handler/HeartBeatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/handler/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/publish/MqMessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/receive/MessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/receive/UserLoginMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/receive/process/BaseProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/receive/process/ProcessFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/redis/RedisManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/redis/SingleClientStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/register/RegistryZK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/register/ZKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/server/LimServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/server/LimWebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/utils/MqFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/java/com/lld/im/tcp/utils/SessionSocketHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/config2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/py/heartBeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/py/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/py/loginLongTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/py/privateSend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/src/main/resources/web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/ImTcpApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/feign/FeignMessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/handler/HeartBeatHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/handler/NettyServerHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/handler/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/publish/MqMessageProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/MessageReceiver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/MessageReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/UserLoginMessageListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/UserLoginMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/process/BaseProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/process/ProcessFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/receive/process/ProcessFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/redis/RedisManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/redis/SingleClientStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/register/RegistryZK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/register/ZKit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/server/LimServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/server/LimServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/server/LimWebSocketServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/server/LimWebSocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/utils/MqFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/com/lld/im/tcp/utils/SessionSocketHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/config2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/py/heartBeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/py/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/py/loginLongTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/py/privateSend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/classes/web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/tcp-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/im-tcp/target/tcp-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/logs/mylog.log.2023-03-12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/logs/mylog.log.2023-03-13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/logs/mylog.log.2023-03-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-03-31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-04-30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-05-31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-06-01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-06-02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-06-03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2023-06-04.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/Maven/apache-maven-3.8.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\software\Maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="2NBh8fgdFFqMvVKYLVB1cyYLYYm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/GraduationDesign/im&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2fed92e2cbd1f1cb8cbd3b9f0b7c789a&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\GraduationDesign\im\im-system" />
+      <recent name="D:\study\GraduationDesign\im\im-system\im-service\src\main\java\com\lld\im\service\role\service\impl" />
+      <recent name="D:\study\GraduationDesign\im\im-system\im-service\src\main\java\com\lld\im\service\role\service" />
+      <recent name="D:\study\GraduationDesign\im\im-system\im-service\src\main\java\com\lld\im\service" />
+      <recent name="D:\study\GraduationDesign\im\im-system\im-service\src\main\java\com\lld\im\role" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\GraduationDesign\im\im-system" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lld.im.service.user.model.req" />
+      <recent name="com.lld.im.service.system.model.req" />
+      <recent name="com.lld.im.service.system.controller" />
+      <recent name="com.lld.im.service.system.service.impl" />
+      <recent name="com.lld.im.service.system.dao.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceApplication">
+    <configuration name="Base64Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lld.im.common.utils.Base64Util" />
+      <module name="im-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lld.im.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImTcpApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lld.im.tcp.ImTcpApplication" />
+      <module name="im-tcp" />
+      <option name="PROGRAM_PARAMETERS" value="D:\study\GraduationDesign\im\im-system\im-tcp\src\main\resources\config.yml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lld.im.tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="im-message-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lld.message.MessageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="im-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lld.im.service.ServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lld.im.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Base64Util" />
+      <item itemvalue="Application.ImTcpApplication" />
+      <item itemvalue="Spring Boot.MessageApplication" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceApplication" />
+        <item itemvalue="Application.ImTcpApplication" />
+        <item itemvalue="Application.Base64Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c3043e9-b99f-492b-a46c-9b570d277d20" name="Changes" comment="" />
+      <created>1679143227826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679143227826</updated>
+      <workItem from="1679143229364" duration="4274000" />
+      <workItem from="1679214379592" duration="15068000" />
+      <workItem from="1679229664050" duration="5535000" />
+      <workItem from="1679325269343" duration="1105000" />
+      <workItem from="1679326401914" duration="65730000" />
+      <workItem from="1679649636535" duration="43090000" />
+      <workItem from="1679975972646" duration="68756000" />
+      <workItem from="1680280680562" duration="68000" />
+      <workItem from="1680330798384" duration="573000" />
+      <workItem from="1680331432921" duration="233000" />
+      <workItem from="1680331692436" duration="804000" />
+      <workItem from="1680332654138" duration="934000" />
+      <workItem from="1680333954139" duration="286000" />
+      <workItem from="1680334267897" duration="591000" />
+      <workItem from="1680351100837" duration="101596000" />
+      <workItem from="1681443816588" duration="187906000" />
+      <workItem from="1682233296597" duration="135311000" />
+      <workItem from="1682930085819" duration="381000" />
+      <workItem from="1682930532788" duration="120000" />
+      <workItem from="1682930992752" duration="5835000" />
+      <workItem from="1682942192502" duration="28473000" />
+      <workItem from="1683046178540" duration="2430000" />
+      <workItem from="1683050025550" duration="17609000" />
+      <workItem from="1683109983401" duration="130053000" />
+      <workItem from="1683547718547" duration="19410000" />
+      <workItem from="1683575909117" duration="9608000" />
+      <workItem from="1683585985607" duration="8980000" />
+      <workItem from="1683619018791" duration="33725000" />
+      <workItem from="1683905763102" duration="1190000" />
+      <workItem from="1683956961987" duration="42855000" />
+      <workItem from="1684744674084" duration="22747000" />
+      <workItem from="1685169428684" duration="61648000" />
+      <workItem from="1685984456471" duration="32000" />
+      <workItem from="1686151404617" duration="154000" />
+      <workItem from="1686151686862" duration="168000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1683581395806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683581395807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app-server" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
